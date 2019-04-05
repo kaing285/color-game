@@ -1,5 +1,5 @@
 # color-game
-This web app was written only for study purposes
+This offline web app was written only for study purposes
 Based on web developer course on Udemy
 Descriptions: 
 1. Run html file on web browers(best on Chrome)
